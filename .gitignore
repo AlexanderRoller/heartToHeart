@@ -1,0 +1,11 @@
+heart.dxf
+src/AWS
+src/secrets.h
+
+#KiCad stuff
+pcb/*
+!pcb/pcb.kicad_sch
+!pcb/pcb.kicad_pcb
+!pcb/pcb.kicad_pro
+!pcb/media
+!pcb/bom.xlsx
